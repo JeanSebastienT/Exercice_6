@@ -1,5 +1,5 @@
 library exercice_6;
-part 'exercice_6_var.dart';
+part '../lib/exercice_6_var.dart';
 exercice6_1(var mot){
 print('Exercice. 6.1:');
 for (var i = 0; i < mot.length/2; i++){
