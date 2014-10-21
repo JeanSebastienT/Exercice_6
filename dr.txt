@@ -2,6 +2,14 @@ ex06
 
 ?/20
 
+la bibliothèque (library) doit être dans le répertoire lib
+
+le même fichier dans les deux répertoires différents?
+
+---
+
+?/20
+
 utiliser le dossier lib  (voir mes exemples)
 
 SVPL utilisez .gitignore
