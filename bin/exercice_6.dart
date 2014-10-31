@@ -1,5 +1,5 @@
-library exercice_6;
-part '../lib/exercice_6_var.dart';
+import 'package:exercice_6/exercice_6_var.dart';
+
 exercice6_1(var mot){
 print('Exercice. 6.1:');
 for (var i = 0; i < mot.length/2; i++){
