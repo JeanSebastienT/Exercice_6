@@ -1,5 +1,34 @@
 ex06
 
+13/20
+
+-1
+attention: formatage (voir: https://www.dartlang.org/articles/style-guide/)
+
+-1 
+se il vous plaît, utiliser les types pour des paramètres de fonctions
+exercice6_5(var clubs, var players){
+-->
+exercice6_5(List clubs, List players) {
+
+-2
+les fonctions devraient être dans la bibliothèque
+
+-1
+6.2
+Exercice. 6.2:
+The difference between those two dates is 370669 days
+Quelles sont les deux dates?
+
+6.4
+se il vous plaît afficher la liste d'entrée
+
+-2
+6.5
+se il vous plaît utiliser les listes et non les maps
+
+---
+
 ?/20
 
 la bibliothèque (library) doit être dans le répertoire lib
